@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/denzellin/Yunzi/master/yunzi.ipa</string>
+					<string>https://raw.githubusercontent.com/denzellin/yunapp/master/yunzi.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/denzellin/Yunzi/master/yunzi.png</string>
+					<string>https://raw.githubusercontent.com/denzellin/yunapp/master/yunzi.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/denzellin/Yunzi/master/yunzia.png</string>
+					<string>https://raw.githubusercontent.com/denzellin/yunapp/master/yunzia.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
